@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Authorizable::VERSION
   spec.authors       = ["Tatsuro Baba"]
   spec.email         = ["harakirisoul@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Authorize any users to be able to do the feature}
+  spec.homepage      = "https://github.com/tbaba/authorizable"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
